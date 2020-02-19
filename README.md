@@ -22,7 +22,8 @@
    ```
    pip install tokenize_uk
    ```
-4. Встановіть бібліотеку для морфологічного аналізу [pymorphy2](https://github.com/kmike/pymorphy2) з підтримкою української мови, виконавши таку команду в командному рядку:
+4. Встановіть [Git](https://git-scm.com/).
+5. Встановіть бібліотеку для морфологічного аналізу [pymorphy2](https://github.com/kmike/pymorphy2) з підтримкою української мови, виконавши таку команду в командному рядку:
    ```
    pip install git+https://github.com/kmike/pymorphy2.git pymorphy2-dicts-uk
    ```
